@@ -1,0 +1,18 @@
+[
+  {
+    "inputsText": "4\n5\n4\n4\n3\n0 2 2 2\n2 0 3 3\n2 3 0 4\n2 3 4 0\n",
+    "expectedText": "9\n"
+  },
+  {
+    "inputsText": "2\n2\n3\n0 4961\n4961 0\n",
+    "expectedText": "5"
+  },
+  {
+    "inputsText": "3\n91\n19\n93\n0 97 82\n97 0 224\n82 224 0\n",
+    "expectedText": "192"
+  },
+  {
+    "inputsText": "4\n810\n10\n178\n371\n0 212 390 456\n212 0 223 4\n390 223 0 48\n456 4 48 0\n",
+    "expectedText": "274"
+  }
+]
