@@ -1,0 +1,17 @@
+{
+  "lessonId": "2579",
+  "title": "계단 오르기",
+  "languages": {
+    "cpp": {
+      "url": "https://baekjoon.song-queue-ssfay11.cloud/problems/2579"
+    }
+  },
+  "level": "Silver III",
+  "category": "다이나믹 프로그래밍",
+  "examples": [
+    {
+      "inputsText": "6\n10\n20\n15\n25\n10\n20\n",
+      "expectedText": "75\n"
+    }
+  ]
+}
