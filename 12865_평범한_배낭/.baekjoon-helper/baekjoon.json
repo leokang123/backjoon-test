@@ -1,0 +1,17 @@
+{
+  "lessonId": "12865",
+  "title": "평범한 배낭",
+  "languages": {
+    "cpp": {
+      "url": "https://baekjoon.song-queue-ssfay11.cloud/problems/12865"
+    }
+  },
+  "level": "Gold V",
+  "category": "다이나믹 프로그래밍, 배낭 문제",
+  "examples": [
+    {
+      "inputsText": "4 7\n6 13\n4 8\n3 6\n5 12\n",
+      "expectedText": "14\n"
+    }
+  ]
+}
