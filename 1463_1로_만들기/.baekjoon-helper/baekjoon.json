@@ -1,0 +1,21 @@
+{
+  "lessonId": "1463",
+  "title": "1로 만들기",
+  "languages": {
+    "cpp": {
+      "url": "https://baekjoon.song-queue-ssfay11.cloud/problems/1463"
+    }
+  },
+  "level": "Silver III",
+  "category": "다이나믹 프로그래밍",
+  "examples": [
+    {
+      "inputsText": "2\n",
+      "expectedText": "1\n"
+    },
+    {
+      "inputsText": "10\n",
+      "expectedText": "3\n"
+    }
+  ]
+}

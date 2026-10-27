@@ -1,0 +1,17 @@
+{
+  "lessonId": "9095",
+  "title": "1, 2, 3 더하기",
+  "languages": {
+    "cpp": {
+      "url": "https://baekjoon.song-queue-ssfay11.cloud/problems/9095"
+    }
+  },
+  "level": "Silver III",
+  "category": "다이나믹 프로그래밍",
+  "examples": [
+    {
+      "inputsText": "3\n4\n7\n10\n",
+      "expectedText": "7\n44\n274\n"
+    }
+  ]
+}
